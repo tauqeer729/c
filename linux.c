@@ -7,6 +7,6 @@
 int main(void)
 {
 	printf("%s %s\n","Hello","Linux");
-	printf("%s : %s\n","Author","tauqeer.mf@gail.com");
+	printf("%s : %s\n","Author","tauqeer.mf@gmail.com");
 	return 0;
 }
